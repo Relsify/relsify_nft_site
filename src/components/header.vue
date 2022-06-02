@@ -7,54 +7,29 @@
                 </div>
                 <nav id="main-nav" class="main-nav">
                     <ul id="menu-primary-menu" class="menu">
-                        <li class="menu-item menu-item-has-children  current-menu-item">
+                        <li class="menu-item  current-menu-item">
                             <a href="#">Home</a>
-                            <ul class="sub-menu">
-                                <li class="menu-item current-item"><a href="index.html">Home 1</a></li>
-                                <li class="menu-item"><a href="home2.html">Home 2</a></li>
-                                <li class="menu-item"><a href="home3.html">Home 3</a></li>
-                            </ul>
-                        </li>
-                        <li class="menu-item menu-item-has-children">
-                            <a href="#">About</a>
-                            <ul class="sub-menu">
-                                <li class="menu-item"><a href="about.html">About 1</a></li>
-                                <li class="menu-item"><a href="about2.html">About 2</a></li>
-                                <li class="menu-item"><a href="coming-soon.html">Coming Soon</a></li>
-                                <li class="menu-item"><a href="community.html">Community</a></li>
-                                <li class="menu-item"><a href="faq.html">Faq</a></li>
-                                <li class="menu-item"><a href="404.html">404</a></li>
-                            </ul>
-                        </li>
-                        <li class="menu-item menu-item-has-children">
-                            <a href="#">Road Map </a>
-                            <ul class="sub-menu">
-                                <li class="menu-item"><a href="roadmap.html">Road Map 1</a></li>
-                                <li class="menu-item"><a href="roadmap2.html">Road Map 2</a></li>
-                            </ul>
-                        </li>
-                        <li class="menu-item menu-item-has-children">
-                            <a href="#">NFT</a>
-                            <ul class="sub-menu">
-                                <li class="menu-item"><a href="item.html">NFT Item</a></li>
-                                <li class="menu-item"><a href="item-details.html">NFT Item Details</a></li>
-                            </ul>
-                        </li>
-                        <li class="menu-item menu-item-has-children">
-                            <a href="#">Blog</a>
-                            <ul class="sub-menu">
-                                <li class="menu-item"><a href="blog-grid.html">Blog Grid</a></li>
-                                <li class="menu-item"><a href="blog-details.html">Blog Detail</a></li>
-                            </ul>
                         </li>
                         <li class="menu-item">
-                            <a href="contact.html">Contact</a>
+                            <a href="#">About</a>
+                        </li>
+                        <li class="menu-item">
+                            <a href="#">Road Map </a>
+                        </li>
+                        <li class="menu-item">
+                            <a href="#">NFT</a>
+                        </li>
+                        <li class="menu-item">
+                            <a href="#">Blog</a>
+                        </li>
+                        <li class="menu-item">
+                            <a href="">Contact</a>
                         </li>
                     </ul>
                 </nav><!-- /#main-nav -->
-                        <a class="tf-button btn-effect" href="contact.html">   
+                        <a class="tf-button btn-effect" href="#">   
                             <span class="boder-fade"></span>                                     
-                            <span class="effect">join discord</span>
+                            <span class="effect">Join Discord</span>
                         </a>
                 <div class="mobile-button"><span></span></div><!-- /.mobile-button -->
             </div>

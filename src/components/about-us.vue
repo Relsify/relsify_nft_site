@@ -5,34 +5,38 @@
                 <div class="col-md-5">
                     <div class="content-about mobie-40" data-aos="fade-up" data-aos-duration="800">
                         <div class="tf-title st2">
-                            <p class="h8 sub-title">About us</p>
-                            <h4 class="title">What is cybox?</h4>
+                            <p class="h8 sub-title">Who We Are</p>
+                            <h4 class="title">SONSOFHEPHAESTUS</h4>
                         </div>
-                        <p>Maecenas sit pretium, cras in. In quisque sem id eget. In vel gravida ut adipiscing integer felis. 
-                            Id ac non arcu facilisi proin ultrices sed. Id accumsan quam viverra ante in id integer ut. 
-                            Volutpat lobortis dolor etiam dis interdum tincidunt senectus.</p>
-                            <a class="tf-button st2 btn-effect" href="item.html">   
+                        <p><b>SonsOfHephaestus</b> is a way to empower our community and keep building with our undying strength.
+                            <br>
+                            It tells in part, the building journey of Relsify and constitutes the early-days motives, the ongoing facts, & what we envision.<br>
+                            Through lame and pain we have built, countless times we have encountered challenges, but we have kept building.<br>
+                            Now is the time for our community to be reminded that building is the only option.<br>
+                            You either build or build!<br>
+                            Whether it's a vision, a dream, a relationship, a startup, a career, a business, whatever it is...<br>
+                            SonsOfHephaestus is not a mere jpeg, but an identity & access for anyone who is building or desires to build with so much zeal, temerity, doggedness, and passion.<br>
+
+                            </p>
+                            <!-- <a class="tf-button st2 btn-effect" href="#">   
                                 <span class="boder-fade"></span>                                     
-                                <span class="effect">get Nfts</span>
-                            </a>
+                                <span class="effect">Mint Nfts</span>
+                            </a> -->
                     </div>
                 </div>
                 <div class="col-md-7">
                     <div class="wrap-about p-l70" data-aos="fade-up" data-aos-duration="800">
                         <div class="box-text corner-box active">
-                            <div class="h7">Unique, 1/1 generated</div>
-                            <p>Gravida viverra dui aliquet eu tortor lorem et gravida. Sed amet phasellus tellus mauris auctor rhoncus. 
-                                Malesuada nisl at mauris cursus lorem mattis arcu.</p>
+                            <div class="h7">Adapted From History</div>
+                            <p>Hephaestus, the Greek god of craftsmanship and technology. Against all odds, Heaphaestus built, so have we at Relsify.</p>
                         </div>
                         <div class="box-text corner-box">
-                            <div class="h7">140+ traits in 16 categories</div>
-                            <p>Ornare faucibus urna, netus ut. Ac vulputate ornare donec orci sed gravida senectus. 
-                                Felis quis morbi vivamus est eget sapien magnis quis.</p>
+                            <div class="h7">Coined For Story</div>
+                            <p>The 7 offspring of Hephaestus were his pride alongside his works. Likewise, the SonsOfHephaestus, our community, shall forever be our pride and greatest asset.</p>
                         </div>
                         <div class="box-text corner-box mb-0">
-                            <div class="h7">Usage rights included</div>
-                            <p>Ac, bibendum duis gravida nullam. At amet nibh platea nibh interdum non, egestas bibendum iaculis. 
-                                Etiam tristique ultricies tristique ullamcorper donec eget odio ut.</p>
+                            <div class="h7">Executed For Pedigree</div>
+                            <p>SonsOfHephaestus forms Relsify's Tier-1 community members who ingrains our story and have governance rights, special privileges & exclusive ongoing benefits of our products.</p>
                         </div>
                     </div>
                 </div>

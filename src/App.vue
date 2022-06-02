@@ -4,11 +4,10 @@
     <MainSlider></MainSlider>
     <AboutUs></AboutUs>
     <Project></Project>
-    <RoadMap></RoadMap>
+    <Roadmap></Roadmap>
     <HowWeWork></HowWeWork>
     <Team></Team>
-    <LatestNews></LatestNews>
-    <Partner></Partner>
+    <Relsify></Relsify>
     <Faq></Faq>
     <Footer></Footer>
     <Web3Options></Web3Options>
@@ -21,13 +20,12 @@ import Faq from './components/faq.vue'
 import Footer from './components/footer.vue'
 import Header from './components/header.vue'
 import HowWeWork from './components/how-we-work.vue'
-import LatestNews from './components/latest-news.vue'
 import MainSlider from './components/main-slider.vue'
-import Partner from './components/partner.vue'
 import Project from './components/project.vue'
 import Roadmap from './components/roadmap.vue'
 import Team from './components/team.vue'
 import Web3Options from './components/web3-options.vue'
+import Relsify from './components/relsify.vue'
 
 export default {
   name: 'app',
@@ -42,9 +40,8 @@ export default {
     Footer,
     Header,
     HowWeWork,
-    LatestNews,
     MainSlider,
-    Partner,
+    Relsify,
     Project,
     Roadmap,
     Team,

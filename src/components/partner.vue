@@ -4,8 +4,8 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="tf-title" data-aos="fade-up" data-aos-duration="800">
-                        <p class="h8 sub-title">partnerS</p>
-                        <h4 class="title">CYBOX INVESTORS</h4>
+                        <p class="h8 sub-title">Partners</p>
+                        <h4 class="title">Heapheatus Investors</h4>
                     </div>
                 </div>
                 <div class="col-md-12">

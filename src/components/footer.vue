@@ -48,32 +48,28 @@
                         </a>
                     </li>
                 </ul>
-                <h5 class="heading">don’t miss out, join now for early access</h5>
-                <p>Maecenas sit pretium, cras in. In quisque sem id eget. In vel gravida ut </p>
-                <form action="#" id="subscribe-form">
-                    <input type="email" placeholder="Enter your email address" required="" id="subscribe-email">
-                    <button class="tf-button-st2 btn-effect" type="submit" id="subscribe-button"> <span class="effect">Subscribe</span></button>
-                </form>
+                <h5 class="heading">Verifiable Smart Contract</h5>
+                <p>On Progres... </p>
             </div>
         </div>
         <div class="footer-bottom">
             <div class="container">
                 <div class="wrap-fx">
                     <div class="Copyright">
-                        <p>CYBOX 2022- ALL rights reserved</p>
+                        <p>Relsify 2022- All Rights Reserved</p>
                     </div>
                     <ul class="list">
                         <li>
-                            <a href="#">Privacy Policy</a>
+                            <a href="#">Play Store</a>
                         </li>
                         <li>
-                            <a href="#">Cookies</a>
+                            <a href="#">Apple store</a>
                         </li>
                         <li>
-                            <a href="#">Terms & Conditions</a>
+                            <a href="https://home.relsify.com">Relsify Project</a>
                         </li>
                         <li>
-                            <a href="contact.html">Contact Us</a>
+                            <a href="https://relsify.com">Relsify</a>
                         </li>
                     </ul>
                 </div>
