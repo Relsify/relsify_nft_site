@@ -42,8 +42,30 @@
 </template>
 
 <script>
+import Swiper from 'swiper';
 export default {
-
+    name: "MainSliderComponent",
+    mounted() {
+        new Swiper(".slider-main", {
+            slidesPerView: 1,
+            loop: false, 
+            spaceBetween: 0,
+            navigation: {
+                nextEl: ".btn-next-main",
+                prevEl: ".btn-prev-main",
+            },
+            pagination: {
+                el: ".swiper-pagination",
+                clickable: true,
+            },
+            breakpoints: {
+                1280: {
+                    slidesPerView: 1,
+                    spaceBetween: 0,
+                },
+            },
+        });
+    }
 }
 </script>
 

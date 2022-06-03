@@ -62,7 +62,7 @@
 
 <script>
 export default {
-
+    name: 'Web3OptionsComponent'
 }
 </script>
 

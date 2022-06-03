@@ -198,16 +198,47 @@
                     </div>                   
                 </div>
                 <div class="col-md-12">
-                    <div class="swiper-button-next btn-slide-next"></div>
-                    <div class="swiper-button-prev btn-slide-prev"></div>
+                    <div class="swiper-button-next btn-slide-next button-next-team"></div>
+                    <div class="swiper-button-prev btn-slide-prev button-prev-team"></div>
                 </div>
             </div>
         </div>
     </section>
 </template>
 <script>
+import Swiper from 'swiper';
 export default {
-
+    name: 'TeamComponent',
+    mounted () {
+        new Swiper(".sl-team", {
+            slidesPerView: 1,
+            loop: false, 
+            spaceBetween: 30,
+            navigation: {
+                clickable: true,
+                nextEl: ".button-next-team",
+                prevEl: ".button-prev-team",
+            },
+            breakpoints: {
+                0: {
+                    slidesPerView: 1,
+                    spaceBetween: 30,
+                },
+                700: {
+                    slidesPerView: 1,
+                    spaceBetween: 30,
+                },
+                991: {
+                    slidesPerView: 2,
+                    spaceBetween: 30,
+                },
+                1280: {
+                    slidesPerView: 3,
+                    spaceBetween: 30,
+                },
+            },
+        });
+    }
 }
 </script>
 
