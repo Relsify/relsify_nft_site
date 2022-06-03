@@ -30,7 +30,7 @@
                   <div class="img-box">
                     <img src="assets/images/common/img1.jpg" alt="" />
                     <div class="content">
-                      <a>Taiyo Robotics</a>
+                      <a>Kalkeus</a>
                     </div>
                   </div>
                 </div>
@@ -38,7 +38,7 @@
                   <div class="img-box">
                     <img src="assets/images/common/img2.jpg" alt="" />
                     <div class="content">
-                      <a>Pesky Penguins</a>
+                      <a>Kalkeus</a>
                     </div>
                   </div>
                 </div>
@@ -46,7 +46,7 @@
                   <div class="img-box">
                     <img src="assets/images/common/img3.jpg" alt="" />
                     <div class="content">
-                      <a>Aurory</a>
+                      <a>Kalkeus</a>
                     </div>
                   </div>
                 </div>
@@ -54,7 +54,7 @@
                   <div class="img-box">
                     <img src="assets/images/common/img4.jpg" alt="" />
                     <div class="content">
-                      <a>Taiyo Robotics</a>
+                      <a>Kalkeus</a>
                     </div>
                   </div>
                 </div>
@@ -62,7 +62,7 @@
                   <div class="img-box">
                     <img src="assets/images/common/img5.jpg" alt="" />
                     <div class="content">
-                      <a>Portals</a>
+                      <a>Kalkeus</a>
                     </div>
                   </div>
                 </div>
@@ -70,7 +70,7 @@
                   <div class="img-box">
                     <img src="assets/images/common/img6.jpg" alt="" />
                     <div class="content">
-                      <a>Grim Syndicate</a>
+                      <a>Kalkeus</a>
                     </div>
                   </div>
                 </div>
@@ -78,7 +78,7 @@
                   <div class="img-box">
                     <img src="assets/images/common/img7.jpg" alt="" />
                     <div class="content">
-                      <a>Jelly Beasts</a>
+                      <a>Kalkeus</a>
                     </div>
                   </div>
                 </div>
@@ -86,7 +86,7 @@
                   <div class="img-box">
                     <img src="assets/images/common/img1.jpg" alt="" />
                     <div class="content">
-                      <a>Jungle Cats</a>
+                      <a>Kalkeus</a>
                     </div>
                   </div>
                 </div>
@@ -104,7 +104,7 @@
                   <div class="img-box">
                     <img src="assets/images/common/img7.jpg" alt="" />
                     <div class="content">
-                      <a>Taiyo Robotics</a>
+                      <a>Kalkeus</a>
                     </div>
                   </div>
                 </div>
@@ -112,7 +112,7 @@
                   <div class="img-box">
                     <img src="assets/images/common/img6.jpg" alt="" />
                     <div class="content">
-                      <a>Jungle Cats</a>
+                      <a>Kalkeus</a>
                     </div>
                   </div>
                 </div>
@@ -120,7 +120,7 @@
                   <div class="img-box">
                     <img src="assets/images/common/img5.jpg" alt="" />
                     <div class="content">
-                      <a>Jelly Beasts</a>
+                      <a>Kalkeus</a>
                     </div>
                   </div>
                 </div>
@@ -128,7 +128,7 @@
                   <div class="img-box">
                     <img src="assets/images/common/img4.jpg" alt="" />
                     <div class="content">
-                      <a> Grim Syndicate</a>
+                      <a> Kalkeus</a>
                     </div>
                   </div>
                 </div>
@@ -136,7 +136,7 @@
                   <div class="img-box">
                     <img src="assets/images/common/img3.jpg" alt="" />
                     <div class="content">
-                      <a>Portals</a>
+                      <a>Kalkeus</a>
                     </div>
                   </div>
                 </div>
@@ -144,7 +144,7 @@
                   <div class="img-box">
                     <img src="assets/images/common/img2.jpg" alt="" />
                     <div class="content">
-                      <a>Taiyo Robotics</a>
+                      <a>Kalkeus</a>
                     </div>
                   </div>
                 </div>
@@ -160,7 +160,7 @@
                   <div class="img-box">
                     <img src="assets/images/common/img5.jpg" alt="" />
                     <div class="content">
-                      <a>Aurory</a>
+                      <a>Kalkeus</a>
                     </div>
                   </div>
                 </div>
