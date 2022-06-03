@@ -15,11 +15,11 @@
                             Within our team are indigenous, shrewd, artificer & glorious personalities.  </p>
                     </div>
                     <div class="button-fx m-t60" data-aos="fade-in" data-aos-duration="800">
-                        <div class="btn-prev button-prev-team">
+                        <div @click="prevTeam" class="btn-prev button-prev-team">
                             <span class="boder-fade"></span>  
                             <span class="effect"><i class="far fa-chevron-left"></i></span>
                         </div>
-                        <div class="btn-next button-next-team">
+                        <div @click="nextTeam"  class="btn-next button-next-team">
                             <i class="far fa-chevron-right"></i>
                         </div>
                     </div>
@@ -198,8 +198,8 @@
                     </div>                   
                 </div>
                 <div class="col-md-12">
-                    <div class="swiper-button-next btn-slide-next button-next-team"></div>
-                    <div class="swiper-button-prev btn-slide-prev button-prev-team"></div>
+                    <div class="swiper-button-next btn-slide-next"></div>
+                    <div class="swiper-button-prev btn-slide-prev"></div>
                 </div>
             </div>
         </div>
@@ -210,9 +210,9 @@ import Swiper from 'swiper';
 export default {
     name: 'TeamComponent',
     mounted () {
-        new Swiper(".sl-team", {
+        this.swiper = new Swiper(".sl-team", {
             slidesPerView: 1,
-            loop: false, 
+            loop: true, 
             spaceBetween: 30,
             navigation: {
                 clickable: true,
@@ -238,6 +238,14 @@ export default {
                 },
             },
         });
+    },
+    methods: {
+        nextTeam() {
+            this.swiper.slideNext();
+        },
+        prevTeam() {
+            this.swiper.slidePrev();
+        },
     }
 }
 </script>

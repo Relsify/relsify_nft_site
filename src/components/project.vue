@@ -24,7 +24,7 @@
       <div class="swiper-container swiper mySwiper swiper-h">
         <div class="swiper-wrapper">
           <div class="swiper-slide">
-            <div class="swiper mySwiper1 swiper-v">
+            <div class="swiper ife-swiper1 mySwiper1 swiper-v">
               <div class="swiper-wrapper">
                 <div class="swiper-slide">
                   <div class="img-box">
@@ -178,7 +178,7 @@ import Swiper from 'swiper';
 export default {
   name: "ProjectComponent",
   mounted() {
-    var swiper1 = new Swiper(".mySwiper1", {
+    this.swiper1 = new Swiper(".mySwiper1 ", {
       // direction: "vertical",
       spaceBetween: 30,
       grabCursor: true,
@@ -197,68 +197,69 @@ export default {
           slidesPerView: 4,
         },
       },
-      observer: true,
-      observeParents: true,
-      shortSwipes: false,
-      longSwipes: false,
-      allowTouchMove: true,
-      reverseDirection: true,
-      autoplay: {
-        delay: 0.3,
-      },
-      // autoplay:false,
-      freeMode: true,
+      // observer: true,
+      // observeParents: true,
+      // shortSwipes: false,
+      // longSwipes: false,
+      // allowTouchMove: true,
+      // reverseDirection: true,
+      // autoplay: {
+      //   delay: 0.3,
+      // },
+      autoplay:true,
+      // freeMode: true,
       speed: 2000,
-      disableOnInteraction: true,
+      // disableOnInteraction: true,
     });
 
-    window.$(".mySwiper1").hover(
-      function () {
-        swiper1.swiper.autoplay.stop();
+
+    // window.$(".mySwiper1").hover(
+    //   function () {
+    //     swiper1.swiper.autoplay.stop();
+    //   },
+    //   function () {
+    //     swiper1.swiper.autoplay.start();
+    //   }
+    // );
+
+    this.swiper2 = new Swiper(".mySwiper2", {
+      spaceBetween: 30,
+      grabCursor: true,
+      loop: true,
+      breakpoints: {
+          0: {
+              slidesPerView: 1
+          },
+          600: {
+              slidesPerView: 4
+          },
+          991: {
+              slidesPerView: 4
+          },
+          1200: {
+              slidesPerView: 4
+          },
       },
-      function () {
-        swiper1.swiper.autoplay.start();
-      }
-    );
-
-    var swiper2 = new Swiper(".mySwiper2", {
-    spaceBetween: 30,
-    grabCursor: true,
-    loop: true,
-    breakpoints: {
-        0: {
-            slidesPerView: 1
-        },
-        600: {
-            slidesPerView: 4
-        },
-        991: {
-            slidesPerView: 4
-        },
-        1200: {
-            slidesPerView: 4
-        },
-    },
-    observer: true,
-    observeParents: true,
-    shortSwipes: false,
-    longSwipes: false,
-    allowTouchMove: true,
-    autoplay: {
-    delay: 0.3, 
-    reverseDirection: true,
-    }, 
-    // autoplay:false,
-    freeMode: true, 
-    speed: 2200,
-    disableOnInteraction: true
+      // observer: true,
+      // observeParents: true,
+      // shortSwipes: false,
+      // longSwipes: false,
+      // allowTouchMove: true,
+      // autoplay: {
+      //   delay: 0.3, 
+      //   reverseDirection: true,
+      // }, 
+      autoplay:true,
+      // freeMode: true, 
+      speed: 2200,
+      // disableOnInteraction: true
     });
 
-    window.$(".mySwiper2").hover(function() {
-        (swiper2).swiper.autoplay.stop();
-    }, function() {
-        (swiper2).swiper.autoplay.start();
-    });
+    // window.$(".mySwiper2").hover(function() {
+    //     (swiper2).swiper.autoplay.stop();
+    // }, function() {
+    //     (swiper2).swiper.autoplay.start();
+    // });
   },
 };
 </script>
