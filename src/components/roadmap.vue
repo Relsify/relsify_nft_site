@@ -1,5 +1,5 @@
 <template>
-  <section class="tf-section tf-roadmap">
+  <section id="roadmap" class="tf-section tf-roadmap">
         <div class="overlay"></div>
         <div class="container">
             <div class="row">

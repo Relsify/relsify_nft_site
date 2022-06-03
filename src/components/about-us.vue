@@ -1,5 +1,5 @@
 <template>
-  <section class="tf-section tf-about pb-mobie">
+  <section id="about" class="tf-section tf-about pb-mobie">
         <div class="container">
             <div class="row">
                 <div class="col-md-5">

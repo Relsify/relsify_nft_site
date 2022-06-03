@@ -28,7 +28,7 @@ import Web3Options from '../components/web3-options.vue'
 import Relsify from '../components/relsify.vue'
 
 export default {
-  name: 'app',
+  name: 'MainPage',
   data () {
     return {
       msg: ''

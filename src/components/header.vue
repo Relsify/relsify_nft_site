@@ -11,19 +11,16 @@
                             <a href="#">Home</a>
                         </li>
                         <li class="menu-item">
-                            <a href="#">About</a>
+                            <a href="#about">About</a>
                         </li>
                         <li class="menu-item">
-                            <a href="#">Road Map </a>
+                            <a href="#projects"> NFT</a>
                         </li>
                         <li class="menu-item">
-                            <a href="#">NFT</a>
+                            <a href="#roadmap">Road Map</a>
                         </li>
                         <li class="menu-item">
-                            <a href="#">Blog</a>
-                        </li>
-                        <li class="menu-item">
-                            <a href="">Contact</a>
+                            <a href="#faq">FaQ</a>
                         </li>
                     </ul>
                 </nav><!-- /#main-nav -->

@@ -1,5 +1,5 @@
 <template>
-  <section class="tf-section faq style3 bg-st2 flat-accordion" data-aos="fade-up" data-aos-duration="800">
+  <section id="faq" class="tf-section faq style3 bg-st2 flat-accordion" data-aos="fade-up" data-aos-duration="800">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
