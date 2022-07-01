@@ -238,6 +238,10 @@ export default {
                 },
             },
         });
+
+        this.$nextTicket = setInterval(() => {
+            this.swiper.slideNext();
+        }, 3000);
     },
     methods: {
         nextTeam() {

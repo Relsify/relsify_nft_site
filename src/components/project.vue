@@ -179,7 +179,7 @@ export default {
   name: "ProjectComponent",
   mounted() {
     this.swiper1 = new Swiper(".mySwiper1 ", {
-      // direction: "vertical",
+      direction: 'horizontal',
       spaceBetween: 30,
       grabCursor: true,
       loop: true,
@@ -197,20 +197,21 @@ export default {
           slidesPerView: 4,
         },
       },
-      // observer: true,
-      // observeParents: true,
+      observer: true,
+      observeParents: true,
       // shortSwipes: false,
       // longSwipes: false,
       // allowTouchMove: true,
       // reverseDirection: true,
-      // autoplay: {
-      //   delay: 0.3,
-      // },
-      autoplay:true,
+      autoplay: {
+        delay: 1000,
+      },
+      // autoplay:true,
       // freeMode: true,
       speed: 2000,
       // disableOnInteraction: true,
     });
+    console.log(this.swiper1)
 
 
     // window.$(".mySwiper1").hover(
@@ -223,6 +224,7 @@ export default {
     // );
 
     this.swiper2 = new Swiper(".mySwiper2", {
+      direction: 'horizontal',
       spaceBetween: 30,
       grabCursor: true,
       loop: true,
@@ -240,8 +242,8 @@ export default {
               slidesPerView: 4
           },
       },
-      // observer: true,
-      // observeParents: true,
+      observer: true,
+      observeParents: true,
       // shortSwipes: false,
       // longSwipes: false,
       // allowTouchMove: true,
@@ -255,11 +257,18 @@ export default {
       // disableOnInteraction: true
     });
 
+    // this.swiper2.
+
     // window.$(".mySwiper2").hover(function() {
     //     (swiper2).swiper.autoplay.stop();
     // }, function() {
     //     (swiper2).swiper.autoplay.start();
     // });
+
+    this.$nextTicket = setInterval(() => {
+      this.swiper1.slideNext();
+      this.swiper2.slidePrev();
+    }, 3000);
   },
 };
 </script>

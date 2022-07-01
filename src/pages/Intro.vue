@@ -91,4 +91,8 @@ export default {
 .para-align-l {
     text-align: justify;
 }
+
+.header__logo {
+    margin-top: 20px;
+}
 </style>
