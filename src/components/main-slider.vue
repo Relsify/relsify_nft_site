@@ -24,7 +24,7 @@
                                             </div>
                                         </div>
                                         <div class="image">
-                                            <img src="assets/images/common/itemslider.png" alt="">
+                                            <img src="assets/images/slider-item-image.png" alt="">
                                         </div>
                                     </div>
                                 </div>

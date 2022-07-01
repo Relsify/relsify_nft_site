@@ -31,7 +31,7 @@
                                 <div class="swiper-slide">
                                     <div class="team-box">
                                         <div class="image">
-                                            <img src="assets/images/common/team6.png" alt="">
+                                            <img src="assets/images/nfts/haephaestus_nft_3.jpeg" alt="">
                                         </div>
                                         <div class="content">
                                             <div class="h8">Agaklytos - Andy</div>
@@ -64,7 +64,7 @@
                                 <div class="swiper-slide">
                                     <div class="team-box">
                                         <div class="image">
-                                            <img src="assets/images/common/team7.png" alt="">
+                                            <img src="assets/images/nfts/haephaestus_nft_4.jpeg" alt="">
                                         </div>
                                         <div class="content">
                                             <div class="h8">Khalkeús - Ife</div>
@@ -97,7 +97,7 @@
                                 <div class="swiper-slide">
                                     <div class="team-box">
                                         <div class="image">
-                                            <img src="assets/images/common/team8.png" alt="">
+                                            <img src="assets/images/nfts/haephaestus_nft_5.jpeg" alt="">
                                         </div>
                                         <div class="content">
                                             <div class="h8">Polyphron - Teesam</div>
@@ -130,7 +130,7 @@
                                 <div class="swiper-slide">
                                     <div class="team-box">
                                         <div class="image">
-                                            <img src="assets/images/common/team9.png" alt="">
+                                            <img src="assets/images/nfts/haephaestus_nft_6.jpeg" alt="">
                                         </div>
                                         <div class="content">
                                             <div class="h8">Klytotékhnēs - Toye</div>
@@ -163,7 +163,7 @@
                                 <div class="swiper-slide">
                                     <div class="team-box">
                                         <div class="image">
-                                            <img src="assets/images/common/team10.png" alt="">
+                                            <img src="assets/images/nfts/haephaestus_nft_7.jpeg" alt="">
                                         </div>
                                         <div class="content">
                                             <div class="h8">Polýmētis - AY</div>
