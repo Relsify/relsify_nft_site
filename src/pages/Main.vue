@@ -51,5 +51,9 @@ export default {
 </script>
 
 <style>
-
+@media only screen and (max-width: 480px) {
+    h4.title {
+        font-size: 30px;
+    }
+}
 </style>

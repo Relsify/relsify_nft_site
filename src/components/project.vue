@@ -90,16 +90,6 @@
                     </div>
                   </div>
                 </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="swiper-container swiper mySwiper swiper-h">
-        <div class="swiper-wrapper">
-          <div class="swiper-slide">
-            <div class="swiper mySwiper2 swiper-v">
-              <div class="swiper-wrapper">
                 <div class="swiper-slide">
                   <div class="img-box">
                     <img src="assets/images/nfts/haephaestus_nft_9.jpeg" alt="" />
@@ -118,7 +108,25 @@
                 </div>
                 <div class="swiper-slide">
                   <div class="img-box">
-                    <img src="assets/images/nfts/haephaestus_nft_5.jpeg" alt="" />
+                    <img src="assets/images/nfts/haephaestus_nft_8.jpeg" alt="" />
+                    <div class="content">
+                      <a>Kalkeus</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="swiper-container swiper mySwiper swiper-h">
+        <div class="swiper-wrapper">
+          <div class="swiper-slide">
+            <div class="swiper mySwiper2 swiper-v">
+              <div class="swiper-wrapper">
+                <div class="swiper-slide">
+                  <div class="img-box">
+                    <img src="assets/images/nfts/haephaestus_nft_11.jpeg" alt="" />
                     <div class="content">
                       <a>Kalkeus</a>
                     </div>
@@ -126,7 +134,23 @@
                 </div>
                 <div class="swiper-slide">
                   <div class="img-box">
-                    <img src="assets/images/nfts/haephaestus_nft_4.jpeg" alt="" />
+                    <img src="assets/images/nfts/haephaestus_nft_12.jpeg" alt="" />
+                    <div class="content">
+                      <a>Kalkeus</a>
+                    </div>
+                  </div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="img-box">
+                    <img src="assets/images/nfts/haephaestus_nft_13.jpeg" alt="" />
+                    <div class="content">
+                      <a>Kalkeus</a>
+                    </div>
+                  </div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="img-box">
+                    <img src="assets/images/nfts/haephaestus_nft_14.jpeg" alt="" />
                     <div class="content">
                       <a> Kalkeus</a>
                     </div>
@@ -134,7 +158,7 @@
                 </div>
                 <div class="swiper-slide">
                   <div class="img-box">
-                    <img src="assets/images/nfts/haephaestus_nft_3.jpeg" alt="" />
+                    <img src="assets/images/nfts/haephaestus_nft_15.jpeg" alt="" />
                     <div class="content">
                       <a>Kalkeus</a>
                     </div>
@@ -142,7 +166,7 @@
                 </div>
                 <div class="swiper-slide">
                   <div class="img-box">
-                    <img src="assets/images/nfts/haephaestus_nft_2.jpeg" alt="" />
+                    <img src="assets/images/nfts/haephaestus_nft_16.jpeg" alt="" />
                     <div class="content">
                       <a>Kalkeus</a>
                     </div>
@@ -150,15 +174,31 @@
                 </div>
                 <div class="swiper-slide">
                   <div class="img-box">
-                    <img src="assets/images/nfts/haephaestus_nft_1.jpeg" alt="" />
+                    <img src="assets/images/nfts/haephaestus_nft_17.jpeg" alt="" />
                     <div class="content">
-                      <a>Pesky Penguins</a>
+                      <a>Kalkeus</a>
                     </div>
                   </div>
                 </div>
                 <div class="swiper-slide">
                   <div class="img-box">
-                    <img src="assets/images/nfts/haephaestus_nft_5.jpeg" alt="" />
+                    <img src="assets/images/nfts/haephaestus_nft_18.jpeg" alt="" />
+                    <div class="content">
+                      <a>Kalkeus</a>
+                    </div>
+                  </div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="img-box">
+                    <img src="assets/images/nfts/haephaestus_nft_19.jpeg" alt="" />
+                    <div class="content">
+                      <a>Kalkeus</a>
+                    </div>
+                  </div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="img-box">
+                    <img src="assets/images/nfts/haephaestus_nft_20.jpeg" alt="" />
                     <div class="content">
                       <a>Kalkeus</a>
                     </div>
@@ -211,7 +251,6 @@ export default {
       speed: 2000,
       // disableOnInteraction: true,
     });
-    console.log(this.swiper1)
 
 
     // window.$(".mySwiper1").hover(

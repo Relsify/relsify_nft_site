@@ -24,7 +24,7 @@
                         </li>
                     </ul>
                 </nav><!-- /#main-nav -->
-                        <a class="tf-button btn-effect" href="#">   
+                        <a class="tf-button btn-effect" href="https://discord.gg/8yTjcCR6">   
                             <span class="boder-fade"></span>                                     
                             <span class="effect">Join Discord</span>
                         </a>
@@ -41,5 +41,7 @@ export default {
 </script>
 
 <style>
-
+div.header__logo a img {
+    width: 130px;
+}
 </style>

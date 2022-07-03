@@ -10,7 +10,7 @@
                                 <div class="col-md-12">
                                     <div class="box-slider">
                                         <div class="content-box">
-                                            <h1 class="title">THE ONLY OPTION <span><br>IS TO BUILD</span></h1>
+                                            <h1 class="title" id="main-slider-title">THE ONLY OPTION <span><br>IS TO BUILD</span></h1>
                                             <p class="sub-title">From the Mount of Olympus, the crafts table of Hephaestus, 
                                                 those who look unto him for help to build dwelling places shall receive it 
                                                 and the SonsOfHephaestus shall be known as great undying builders from Lemnos.
@@ -72,5 +72,37 @@ export default {
 <style>
 .box-slider .content-box .title {
     font-size: 45px;
+}
+@media only screen and (max-width: 1200px) {
+    div > h1#main-slider-title {
+        font-size: 50px;
+    }
+}
+
+@media only screen and (max-width: 991px) {
+    div > h1#main-slider-title {
+        font-size: 50px;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    div > h1#main-slider-title {
+        font-size: 50px;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    div > h1#main-slider-title {
+        font-size: 50px;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    div > h1#main-slider-title {
+        font-size: 35px;
+    }
+    .page-title .wrap-btn .tf-button, .page-title .wrap-btn .tf-button-st2 {
+    width: 100%;
+}
 }
 </style>

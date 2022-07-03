@@ -6,7 +6,7 @@
                     <div class="content-about mobie-40" data-aos="fade-up" data-aos-duration="800">
                         <div class="tf-title st2">
                             <p class="h8 sub-title">Who We Are</p>
-                            <h4 class="title">SONSOFHEPHAESTUS</h4>
+                            <h4 class="title" id="sons-haephaestus-title">SONSOFHEPHAESTUS</h4>
                         </div>
                         <p><b>SonsOfHephaestus</b> is a way to empower our community and keep building with our undying strength.
                             <br>
@@ -52,5 +52,15 @@ export default {
 </script>
 
 <style>
+@media only screen and (max-width: 991px) {
+    h4#sons-haephaestus-title {
+        font-size: 35px;
+    }
+}
 
+@media only screen and (max-width: 767px) {
+    h4#sons-haephaestus-title {
+        font-size: 30px;
+    }
+}
 </style>
