@@ -22,11 +22,11 @@
 
                             </p>
 
-                            <a class="tf-button st2 btn-effect" href="#">   
+                            <a class="tf-button st2 btn-effect" href="https://play.google.com/store/apps/details?id=app.relsify.com">   
                                 <span class="boder-fade"></span>                                     
                                 <span class="effect">Play Store</span>
                             </a>
-                            <a class="tf-button st2 btn-effect" href="#">   
+                            <a class="tf-button st2 btn-effect" href="https://apps.apple.com/nl/app/relsify/id1622386977">   
                                 <span class="boder-fade"></span>                                     
                                 <span class="effect">Apple Store</span>
                             </a>

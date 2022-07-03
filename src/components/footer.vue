@@ -60,10 +60,10 @@
                     </div>
                     <ul class="list">
                         <li>
-                            <a href="#">Play Store</a>
+                            <a href="https://play.google.com/store/apps/details?id=app.relsify.com">Play Store</a>
                         </li>
                         <li>
-                            <a href="#">Apple store</a>
+                            <a href="https://apps.apple.com/nl/app/relsify/id1622386977">Apple store</a>
                         </li>
                         <li>
                             <a href="https://home.relsify.com">Relsify Project</a>
