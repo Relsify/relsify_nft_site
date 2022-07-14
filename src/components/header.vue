@@ -24,7 +24,7 @@
                         </li>
                     </ul>
                 </nav><!-- /#main-nav -->
-                        <a class="tf-button btn-effect" href="https://discord.gg/8yTjcCR6">   
+                        <a class="tf-button btn-effect" href="https://discord.gg/Mu4ZMcjdqE">   
                             <span class="boder-fade"></span>                                     
                             <span class="effect">Join Discord</span>
                         </a>
